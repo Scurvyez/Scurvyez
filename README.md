@@ -15,4 +15,6 @@
 
 [<img align="left" alt="Scurvyez | ko-fi" width="250px" src="https://i.imgur.com/2p03pkM.png" />][ko-fi]
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B84LOQ1)
+
 [ko-fi]: https://ko-fi.com/stevez
