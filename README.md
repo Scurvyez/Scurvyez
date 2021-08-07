@@ -6,6 +6,8 @@
      - Constantly updating.
 - Steve's Walls (For that neon-base vibe!)
      - Working on the itinial release.
+- Holo Doors
+     - Taking a break on this one. :/
 
 ## Connect with me:
 
