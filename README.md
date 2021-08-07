@@ -5,7 +5,7 @@
 - Bastyon (My first mod! It adds a bunch of new animals to Rimworld.)
      - Constantly updating.
 - Steve's Walls (For that neon-base vibe!)
-     - Working on the itinial release.
+     - Working on the initial release.
 - Holo Doors
      - Taking a break on this one. :/
 
