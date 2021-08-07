@@ -11,12 +11,11 @@
 
 - Discord (Steve o.O#1151)
 
-<br />
-
 ## Help me suffer through college:
 
 [<img align="left" alt="Scurvyez | ko-fi" width="250px" src="https://i.imgur.com/2p03pkM.png" />][ko-fi]
 
+<br />
 <br />
 
 <img align="left" alt="Scurvyez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Scurvyez&show_icons=true&hide_border=true" />
