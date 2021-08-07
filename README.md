@@ -13,7 +13,7 @@
 
 ## Help me suffer through college:
 
-[<img align="left" alt="Scurvyez | ko-fi" width="22px" src="https://i.imgur.com/2p03pkM.png" />][ko-fi]
+[<img align="left" alt="Scurvyez | ko-fi" width="200px" src="https://i.imgur.com/2p03pkM.png" />][ko-fi]
 
 <br />
 
