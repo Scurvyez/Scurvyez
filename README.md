@@ -10,7 +10,9 @@
 ## Connect with me:
 
 - Discord (Steve o.O#1151)
-- Help me suffer through college xD
+
+## Help me suffer through college:
+
 [<img align="left" alt="Scurvyez | ko-fi" width="22px" src="https://i.imgur.com/2p03pkM.png" />][ko-fi]
 
 <br />
