@@ -2,12 +2,26 @@
 
 ## I'm a Rimworld modder and here are the projects I'm currently working on.
 
-- Bastyon (My first mod! It adds a bunch of new animals to Rimworld.)
-     - Constantly updating.
-- Steve's Walls (For that neon-base vibe!)
-     - Working on the initial release.
-- Holo Doors
-     - Taking a break on this one. :/
+- Bastyon
+     - Utilizes Harmony and Vanilla Expanded Framework
+     - Adds 27 new and unique animals to the game.
+- Steve's Walls
+     - Adds 14 new, glowing walls to the game.
+     - Half are flat and angular, the other half are curved.
+- Fireflies
+     - You guessed it, this mod adds fireflies to the game!
+     - Spawn at night in groups and dissapate in the morning.
+     - Compatible with the following biome mods.
+          - Advanced Biomes
+          - Aplha Biomes
+          - Biomes! Islands
+          - Biomes! Oasis
+          - Medieval Overhaul
+          - More Vanilla Biomes
+          - Natures Pretty Sweet
+          - Nocturnal Animals
+          - ReGrowth Aspen Forests
+          - RimUniverse Biomes
 
 ## Connect with me:
 
