@@ -1,10 +1,9 @@
 ### Hey! It's Steve. :)
-
-## Hobbyist programmer by night, wildlife ecologist by day.
-## Here are the projects I'm currently working on.
+- Hobbyist programmer by night, wildlife ecologist by day.
+- Here are the projects I'm currently working on.
 
 ## Rimworld Mods...
-- Steve's Animals
+- Steve's Animals (formerly Bastyon)
      - Adds a variety of new animals to the game with varied abilities and events.
      - Adds a new pawn graphics system to allow for animated textures on animals.
           - e.g. actual fire effetcs on some animals
