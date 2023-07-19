@@ -1,41 +1,30 @@
-### Hey! It's Steve. :)
-- Hobbyist programmer by night, wildlife ecologist by day.
-- Here are the projects I'm currently working on.
+# Hey there! It's Steve. 👋
 
-## Rimworld Mods...
-- Steve's Animals (formerly Bastyon)
-     - Adds a variety of new animals to the game with varied abilities and events.
-     - Adds a new pawn graphics system to allow for animated textures on animals.
-          - e.g. actual fire effetcs on some animals
-          - ethereal effects on others
-- Steve's Walls
-     - Adds new walls to the game. Can be powered and will in turn glow, in any color you want.
-          - use the games' color picker in 1.4 for any color glow you want
-          - legacy wall versions from before 1.4 still included
-- Fireflies
-     - Adds glowing fireflies to the game. Spawn in small - large groups at night.
-     - (reworking this mod at some point soon to be way more performance-friendly)
-- Bones
-     - Adds all 206 human bones to every humanlike pawn in the game.
-          - all bones can be broken with new fracture hediffs
-- Medieval Overhaul
-     - (not my mod)
-     - contributed code for rpg style lootable buildings which can be used on things like...
-          - cabinets
-          - bookshelves
-          - treasure chests
-          - bone piles, etc
+Hobbyist programmer by night, wildlife ecologist by day.
 
-## Peronal Projects...
-- Solar Systems
-     - Unity project
-          - generates realistic, yet random, solar systems
-          - (main project atm)
+## Projects I'm currently working on
 
-## Connect with me:
+### Rimworld Mods
+- **Steve's Animals** (formerly Bastyon)
+  - Adds a variety of new animals to the game with varied abilities and events.
+  - Includes an advanced pawn graphics system with animated textures, like actual fire effects and ethereal effects.
+- **Steve's Walls**
+  - Introduces new powered walls to the game, with customizable glowing colors.
+- **Fireflies**
+  - Adds glowing fireflies that spawn in small to large groups at night. (Performance improvements in progress)
+- **Bones**
+  - Enhances pawns in the game by adding all 206 human bones with fracture hediffs.
+- **Medieval Overhaul**
+  - Contributed code for RPG-style lootable buildings on various items.
 
-- Discord (Steve o.O#1151)
+### Personal Projects
+- **Solar Systems**
+  - A Unity project that generates realistic yet random solar systems.
 
-## Help me suffer through college:
+## Connect with me
+
+- Discord: Steve o.O#1151
+
+## Help me fuel my late-night coding sessions ☕
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B84LOQ1)
