@@ -1,6 +1,6 @@
 # Hey there! It's Steve. 👋
 
-<span style="color:blue">Hobbyist programmer by night, wildlife ecologist by day.</span><br>
+<font color="blue">Hobbyist programmer by night, wildlife ecologist by day.</font><br>
 I have taken an affinity to shaders and HLSL recently.<br>
 Most of my Rimworld mods listed below use custom shaders.
 
