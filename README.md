@@ -27,22 +27,22 @@ public class RimworldModding
         {
             new RimworldMod("Pixel Wizardry")
                 .AddDescription(
-                    "Adds accessibility support for persons with color blindness.\n
+                    "Adds accessibility support for persons with color blindness.\n\n
                     Several new shaders for Rimworld textures with blending effects."),
             new RimworldMod("Steve's Animals (formerly Bastyon)")
                 .AddDescription(
-                    "Adds new animals with varied abilities and events.\n
+                    "Adds new animals with varied abilities and events.\n\n
                     Advanced pawn graphics system with animated textures."),
             new RimworldMod("Steve's Walls")
                 .AddDescription(
                     "Introduces new powered walls with customizable glowing colors.")
             new RimworldMod("Fireflies")
                 .AddDescription(
-                    "Adds glowing fireflies that spawn in groups at night.\n
+                    "Adds glowing fireflies that spawn in groups at night.\n\n
                     Performance improvements in progress."),
             new RimworldMod("Bones")
                 .AddDescription(
-                    "Enhances pawns by adding all 206 human bones with fracture hediffs.\n
+                    "Enhances pawns by adding all 206 human bones with fracture hediffs.\n\n
                     Birthed out of a bet in the Official Rimworld Discord server."),
             new RimworldMod("Medieval Overhaul")
                 .AddDescription(
