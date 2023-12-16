@@ -1,5 +1,3 @@
-# Hey there! It's Steve. 👋
-
 🟢 Hobbyist programmer by night, wildlife ecologist by day.<br>
 🔵 I have taken an affinity to shaders and HLSL recently.<br>
 🟣 Most of my Rimworld mods listed below use custom shaders.
@@ -9,24 +7,24 @@
 ## Projects I'm currently working on
 
 ### Rimworld Mods
-- **Pixel Wizardry** 🟢
+- **Pixel Wizardry**
     - This mod adds accessability support for persons with color blindness. (Protanopia, Protanomaly, Deuteranopia, Deuteranomaly, Tritanopia, Tritanomaly, Achromatopsia, and Achromatomaly). You must enable the correct options for any of these in the mods' settings to work.
     - This mod also adds several new shaders for use with Rimworld textures by other modders. Some of the shaders produce blending effects similar to those found in programs like Photoshop.
-- **Steve's Animals** (formerly Bastyon) 🟢
+- **Steve's Animals** (formerly Bastyon)
     - Adds a variety of new animals to the game with varied abilities and events.
     - Includes an advanced pawn graphics system with animated textures, like actual fire and ethereal effects.
-- **Steve's Walls** 🟢
+- **Steve's Walls**
     - Introduces new powered walls to the game, with customizable glowing colors.
-- **Fireflies** 🟢
+- **Fireflies**
     - Adds glowing fireflies that spawn in small to large groups at night. (Performance improvements in progress)
-- **Bones** 🟢
+- **Bones**
     - Enhances pawns in the game by adding all 206 human bones with fracture hediffs.
     - This mod was birthed out of a bet in the glorious Official Rimworld Discord server.
-- **Medieval Overhaul** 🟢
+- **Medieval Overhaul**
     - Contributed code for RPG-style lootable buildings on various items.
 
 ### Personal Projects
-- **Solar Systems** 🟢
+- **Solar Systems**
     - A Unity project that generates realistic yet random solar systems.
 
 ## Connect with me
