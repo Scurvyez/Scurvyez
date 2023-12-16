@@ -4,7 +4,7 @@ Hobbyist programmer by night, wildlife ecologist by day.
 I have taken an affinity to shaders and HLSL recently.
 Most of my Rimworld mods listed below use custom shaders.
 
-![](https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif)
+<img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="500" height="300">
 
 ## Projects I'm currently working on
 
