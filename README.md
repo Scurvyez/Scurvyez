@@ -16,7 +16,7 @@ public class Steve
 ```
 
 ⭕ Example [shader](https://github.com/Scurvyez/Ghosts/blob/main/Materials/Shaders/GhostEffect.shader) for a WIP Rimworld mod, written in HLSL.<br>
-⭕ Image to the right is the Materials' default _MainTex `Texture2D`.<br>
+⭕ Image to the right is the Materials' default _MainTex.<br>
 <img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="300" height="300">
 
 ### Rimworld Modding <img src="https://github.com/Scurvyez/Scurvyez/blob/main/rimworld-logo-transparent-Git.png" width="20" height="20">
