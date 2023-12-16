@@ -1,9 +1,10 @@
 # Hey there! It's Steve. 👋
 
-Hobbyist programmer by night, wildlife ecologist by day.\nI have taken an affinity to shaders and HLSL recently.
+Hobbyist programmer by night, wildlife ecologist by day.
+I have taken an affinity to shaders and HLSL recently.
 Most of my Rimworld mods listed below use custom shaders.
 
-![](https://github.com/Scurvyez/Scurvyez/blob/main/Animation64.gif)
+![](https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif)
 
 ## Projects I'm currently working on
 
