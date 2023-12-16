@@ -2,6 +2,16 @@
 🔵 I have taken an affinity to shaders and HLSL recently.<br>
 🟣 Most of my Rimworld mods listed below use custom shaders.<br>
 
+```cs
+public class Steve 
+{
+    public string Name { get; set; } = "Steve";
+    public string Pronouns { get; set; } = "He / Him";
+    public string Occupation { get; set; } = "Hobbyist programmer by night, wildlife ecologist by day";
+    public string Discord { get; set; } = "Steve o.O#1151";
+}
+```
+
 Example ghost effect shader for a WIP Rimworld mod, written in HLSL.<br>
 <img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="300" height="300">
 
@@ -27,10 +37,6 @@ Example ghost effect shader for a WIP Rimworld mod, written in HLSL.<br>
 ### Personal Projects
 - **Solar Systems**
     - A Unity project that generates realistic yet random solar systems.
-
-## Connect with me
-
-- Discord: Steve o.O#1151
 
 ## Help me fuel my late-night coding sessions ☕
 
