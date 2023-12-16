@@ -32,8 +32,7 @@ public class RimworldModding
                 .AddDescription(
                     "Adds accessibility support for persons with color blindness.",
                     "Adds several new shaders for Rimworld textures with blending effects."),
-                .AddLink(
-                    "[shader](https://steamcommunity.com/sharedfiles/filedetails/?id=3018710784)"),
+                .AddLink([Pixel Wizardry](https://steamcommunity.com/sharedfiles/filedetails/?id=3018710784)),
 
             new RimworldMod("Random Chance")
                 .AddDescription(
