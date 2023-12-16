@@ -1,7 +1,3 @@
-🟢 Hobbyist programmer by night, wildlife ecologist by day.<br>
-🔵 I have taken an affinity to shaders and HLSL recently.<br>
-🟣 Most of my Rimworld mods listed below use custom shaders.<br>
-
 ```cs
 public class Steve 
 {
@@ -9,6 +5,11 @@ public class Steve
     public string Pronouns { get; set; } = "He / Him";
     public string Occupation { get; set; } = "Hobbyist programmer by night, wildlife ecologist by day";
     public string Discord { get; set; } = "Steve o.O#1151";
+    public Dictionary<string, string> LikesDislikes { get; set; } = new Dictionary<string, string>
+    {
+        { "Likes", "Programming, wildlife, shaders, black coffee, climbing, synthwave, nice people" },
+        { "Dislikes", "Bugs in code, environmental degradation, movies with bad endings" }
+    };
 }
 ```
 
