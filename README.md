@@ -1,7 +1,8 @@
 🟢 Hobbyist programmer by night, wildlife ecologist by day.<br>
 🔵 I have taken an affinity to shaders and HLSL recently.<br>
-🟣 Most of my Rimworld mods listed below use custom shaders.
+🟣 Most of my Rimworld mods listed below use custom shaders.<br>
 
+Example ghost effect shader for a WIP Rimworld mod, written in HLSL.
 <img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="300" height="300">
 
 ## Projects I'm currently working on
