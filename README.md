@@ -19,7 +19,7 @@ public class Steve
 ⭕ Image to the right is the default `Texture2D`.<br>
 <img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="300" height="300">
 
-### Rimworld Modding <img src="https://github.com/Scurvyez/Scurvyez/blob/main/rimworld-logo-transparent-Git.png" width="32" height="32">
+### Rimworld Modding <img src="https://github.com/Scurvyez/Scurvyez/blob/main/rimworld-logo-transparent-Git.png" width="20" height="20">
 
 ```cs
 public class RimworldModding
