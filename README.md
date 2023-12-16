@@ -13,8 +13,8 @@ public class Steve
 }
 ```
 
-Example ghost effect shader for a WIP Rimworld mod, written in HLSL.<br>
-[Ghost Effect Animation](https://github.com/Scurvyez/Ghosts/blob/main/Materials/Shaders/GhostEffect.shader)
+Example [shader](https://github.com/Scurvyez/Ghosts/blob/main/Materials/Shaders/GhostEffect.shader) for a WIP Rimworld mod, written in HLSL.<br>
+    - Image to the right is the default `Texture2D`.<br>
 <img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="300" height="300">
 
 ### Rimworld Modding
