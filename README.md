@@ -1,3 +1,5 @@
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scurvyez)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 ```cs
 public class Steve 
 {
