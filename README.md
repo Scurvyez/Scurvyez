@@ -19,7 +19,7 @@ public class Steve
 ⭕ Image to the right is the default `Texture2D`.<br>
 <img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="300" height="300">
 
-### Rimworld Modding
+### Rimworld Modding [!(https://github.com/Scurvyez/Scurvyez/blob/main/rimworld-logo-transparent-Git.png)](https://steamcommunity.com/profiles/76561198050761947/myworkshopfiles/?appid=294100)
 
 ```cs
 public class RimworldModding
@@ -28,7 +28,6 @@ public class RimworldModding
     {
         List<RimworldMod> mods = new List<RimworldMod>
         {
-            [Pixel Wizardry](https://steamcommunity.com/sharedfiles/filedetails/?id=3018710784)
             new RimworldMod("Pixel Wizardry")
                 .AddDescription(
                     "Adds accessibility support for persons with color blindness.",
