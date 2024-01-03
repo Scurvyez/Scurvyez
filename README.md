@@ -15,11 +15,10 @@ public class Steve
 }
 ```
 
-⭕ Example [shader](https://github.com/Scurvyez/Ghosts/blob/main/Materials/Shaders/GhostEffect.shader) for a WIP Rimworld mod, written in HLSL.<br>
-⭕ Image to the right is the Materials' default _MainTex.<br>
-<img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation65.gif" width="300" height="300">
+⭕ Example shader written in HLSL. My, somewhat decent, attempt at Diablo's health guage.<br>
+<img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation71.gif" width="300" height="300">
 
-### Rimworld Modding <img src="https://github.com/Scurvyez/Scurvyez/blob/main/rimworld-logo-transparent-Git.png" width="20" height="20">
+### Rimworld Modding
 
 ```cs
 public class RimworldModding
