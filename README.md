@@ -18,6 +18,30 @@ public class Steve
 ⭕ Example shader written in HLSL. My, somewhat decent, attempt at Diablo's health guage.<br>
 <img src="https://github.com/Scurvyez/Scurvyez/blob/main/Animation71.gif" width="300" height="300">
 
+### Personal Projects
+
+```cs
+public class UnityShenanigans
+{
+    public static void Main()
+    {
+        List<UnityProject> projects = new List<UnityProject>
+        {
+            new UnityProject("Solar Systems")
+                .AddDescription(
+                    "A realistic yet random solar system generator.",
+                    "Based on real-world math and current scientific knowledge of the universe."),
+
+            new UnityProject("Panic Squares")
+                .AddDescription(
+                    "You control a square with a tail.",  
+                    "Collect other squares and various short-lived abilities while avoiding walls and enemies.",
+                    "Do it all before the timer runs out or all lives are lost.")
+        };
+    }
+}
+```
+
 ### Rimworld Modding
 
 ```cs
@@ -57,30 +81,6 @@ public class RimworldModding
             new RimworldMod("Medieval Overhaul")
                 .AddDescription(
                     "Contributed code for RPG-style lootable buildings on various items.")
-        };
-    }
-}
-```
-
-### Personal Projects
-
-```cs
-public class UnityShenanigans
-{
-    public static void Main()
-    {
-        List<UnityProject> projects = new List<UnityProject>
-        {
-            new UnityProject("Solar Systems")
-                .AddDescription(
-                    "A realistic yet random solar system generator.",
-                    "Based on real-world math and current scientific knowledge of the universe."),
-
-            new UnityProject("Panic Squares")
-                .AddDescription(
-                    "You control a square with a tail.",  
-                    "Collect other squares and various short-lived abilities while avoiding walls and enemies.",
-                    "Do it all before the timer runs out or all lives are lost.")
         };
     }
 }
