@@ -27,10 +27,9 @@ public class RimworldModding
     {
         List<RimworldMod> mods = new List<RimworldMod>
         {
-            new RimworldMod("Pixel Wizardry")
+            new RimworldMod("Color Blindness")
                 .AddDescription(
-                    "Adds accessibility support for persons with color blindness.",
-                    "Adds several new shaders for Rimworld textures with blending effects."),
+                    "Adds accessibility support for persons with color blindness.")
 
             new RimworldMod("Random Chance")
                 .AddDescription(
@@ -76,6 +75,10 @@ public class UnityShenanigans
                 .AddDescription(
                     "A realistic yet random solar system generator.",
                     "Based on real-world math and current scientific knowledge of the universe."),
+
+            new UnityProject("Panic Squares")
+                .AddDescription(
+                    "You control a square with a tail. Collect other squares while avoiding various objects and collecting short-lived abilities before the timer runs out and all lives are lost.")
         };
     }
 }
