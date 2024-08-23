@@ -34,6 +34,7 @@ public class UnityShenanigans
 
             new UnityProject("Panic Squares")
                 .AddDescription(
+                    "Originally written in C#, reworked in GDScript.",
                     "You control a square with a tail.",  
                     "Collect other squares and various short-lived abilities while avoiding walls and enemies.",
                     "Do it all before the timer runs out or all lives are lost.")
