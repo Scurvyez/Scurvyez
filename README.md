@@ -78,7 +78,9 @@ public class UnityShenanigans
 
             new UnityProject("Panic Squares")
                 .AddDescription(
-                    "You control a square with a tail. Collect other squares while avoiding various objects and collecting short-lived abilities before the timer runs out and all lives are lost.")
+                    "You control a square with a tail.",  
+                    "Collect other squares and various short-lived abilities while avoiding walls and enemies.",
+                    "Do it all before the timer runs out or all lives are lost.")
         };
     }
 }
