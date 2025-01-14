@@ -13,7 +13,7 @@ public class Steve
     };
 
     public string Passion = "Creating works which induce a sense of creativity in others." 
-                            + "People all to often forget to enjoy the careers or hobbies they follow." 
+                            + "People all too often forget to enjoy the careers or hobbies they follow." 
                             + "If I can somehow curb that trend then I will do everything in my power to do so.";
 }
 ```
