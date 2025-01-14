@@ -1,15 +1,20 @@
 ```cs
 public class Steve 
 {
-    public string Name { get; set; } = "Steve";
-    public string Pronouns { get; set; } = "He / Him";
+    public string Name { get; } = "Steve";
+    public string Pronouns { get; } = "He / Him";
+    public string Discord { get; } = "steveo.o";
     public string Occupation { get; set; } = "Hobbyist programmer by night, wildlife ecologist/biologist by day";
-    public string Discord { get; set; } = "steveo.o";
-    public Dictionary<string, string> LikesDislikes { get; set; } = new Dictionary<string, string>
+    
+    public Dictionary<string, string> LikesDislikes { get; set; } = new ()
     {
         { "Likes", "Programming, wildlife, shaders, black coffee, climbing, synthwave, nice people" },
         { "Dislikes", "Bugs in code, environmental degradation, movies with bad endings" }
     };
+
+    public string PassionNumOne { get; } = "Creating works which induce a sense of creativity in others." 
+                                            + "People all to often forget to enjoy the careers or hobbies they follow." 
+                                            + "If I can somehow curb that trend then I will do everything in my power to do so.";
 }
 ```
 
