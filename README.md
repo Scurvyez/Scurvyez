@@ -12,14 +12,12 @@ public class Steve
         { "Dislikes", "Bugs in code, environmental degradation, movies with bad endings" }
     };
 
-    public string PassionNumOne { get; } = "Creating works which induce a sense of creativity in others." 
-                                            + "People all to often forget to enjoy the careers or hobbies they follow." 
-                                            + "If I can somehow curb that trend then I will do everything in my power to do so.";
+    public string Passion = "Creating works which induce a sense of creativity in others." 
+                            + "People all to often forget to enjoy the careers or hobbies they follow." 
+                            + "If I can somehow curb that trend then I will do everything in my power to do so.";
 }
 ```
 
-⭕ Demo of "Solar Systems". The project mentioned below.<br>
-<img src="https://github.com/Scurvyez/Scurvyez/blob/main/SolarSystems_Gif_1.gif" width="720" height="432">
 
 ### Personal Projects
 
@@ -28,23 +26,32 @@ public class UnityShenanigans
 {
     public static void Main()
     {
-        List<UnityProject> projects = new 
+        List<UnityProject> projects = new ()
         [
             new UnityProject("Solar Systems")
                 .AddDescription(
                     "A realistic yet random solar system generator.",
                     "Based on real-world math and current scientific knowledge of the universe."),
-
-            new UnityProject("Panic Squares")
-                .AddDescription(
-                    "Originally written in C#, reworked in GDScript.",
-                    "You control a square with a tail.",  
-                    "Collect other squares and various short-lived abilities while avoiding walls and enemies.",
-                    "Do it all before the timer runs out or all lives are lost.")
         ];
     }
 }
 ```
+⭕ Solar Systems demo...<br>
+<img src="https://github.com/Scurvyez/Scurvyez/blob/main/SolarSystems_Gif_1.gif" width="720" height="432">
+
+```swift
+func _ready():
+    var godot_projects = [
+        GodotProject.new("Panic Squares").add_description(
+            "Originally written in C#, reworked in GDScript.",
+            "You control a square with a tail.",  
+            "Collect other squares and various short-lived abilities while avoiding walls and enemies.",
+            "Do it all before the timer runs out or all lives are lost.")
+    ]
+```
+⭕ Panic Squares demo...<br>
+<img src="https://github.com/Scurvyez/Scurvyez/blob/main/PanicSquares_Gif_1.gif" width="720" height="432">
+
 
 ### Rimworld Modding
 
@@ -53,7 +60,7 @@ public class RimworldModding
 {
     public static void Main()
     {
-        List<RimworldMod> mods = new 
+        List<RimworldMod> mods = new ()
         [
             new RimworldMod("Random Chance")
                 .AddDescription(
