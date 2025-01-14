@@ -84,6 +84,5 @@ public class RimworldModding
 }
 ```
 
-## Help me fuel my late-night coding sessions. ☕
-## Support is never asked for but it goes a long way in making sure anything I produce stays up-to-date!
+## Help me fuel my late-night coding sessions. ☕ Support is never asked for but it goes a long way in making sure anything I produce stays up-to-date!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B84LOQ1)
